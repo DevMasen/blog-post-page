@@ -21,5 +21,5 @@ text and a caption. The document also includes a title and essential metadata.
 ## Developer
 
 **DevMasen**
-
+vote for my solution with this [link](https://roadmap.sh/projects/blog-post-page/solutions?u=66107474da1671f986289b45)
 Thank you for visiting this project!
